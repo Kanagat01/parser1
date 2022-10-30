@@ -1,2 +1,2 @@
 # parser1
-Парсер на python
+Простой парсер на python
