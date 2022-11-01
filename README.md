@@ -1,2 +1,2 @@
 # parser1
-Простой парсер на python
+Парсер сайта StopGame на Python
